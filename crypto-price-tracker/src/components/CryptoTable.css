@@ -1,0 +1,22 @@
+.chart-cell {
+  padding: 5px;
+  vertical-align: middle;
+  width: 70px;
+}
+
+.green {
+  color: #00C853;
+  font-weight: bold;
+}
+
+.red {
+  color: #FF3D00;
+  font-weight: bold;
+}
+
+.crypto-logo {
+  object-fit: contain;
+  max-width: 20px;
+  max-height: 20px;
+  display: inline-block;
+}
