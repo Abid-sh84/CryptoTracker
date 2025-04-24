@@ -15,7 +15,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 style={{ textAlign: 'center' }}>Real-Time Crypto Price Tracker</h1>
+      <h1 style={{ textAlign: 'center' }}>Crypto Price Tracker</h1>
       <CryptoTable />
     </div>
   );
